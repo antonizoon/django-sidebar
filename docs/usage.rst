@@ -22,7 +22,7 @@ Usage example
             
 3. **Synchronize project database**::
 
-    $ python manage.py syncdb
+    $ python manage.py manage --run-syncdb
 
 4. **Create a directory called 'sidebar_widgets' inside the project directory** 
 
